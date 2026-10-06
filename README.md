@@ -32,4 +32,12 @@ Simulations are carried out using `QuTiP`.
 - NumPy
 - Matplotlib
 
+## Acknowledgements
+
+I would like to express my gratitude to:
+* **Dr. Anil Prabhakar** and **Ashutosh Singh** for providing guidance and support throughout this project.
+* The **CQuICC team** for the foundational repository and open-source materials.
+
+
+
 
